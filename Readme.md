@@ -26,7 +26,7 @@ That constant decision-making is exhausting. More often than not, you end up spe
 
 This is a common problem, and once I recognized it, I looked for a system rather than trying to solve it fresh every morning.
 
-![Efficiency](./efficiency.jpg)
+![Efficiency](./images/efficiency.jpg)
 
 ## My solution: Have a framework, so your mind doesn't think of other steps every day(frustrating)..
 
@@ -51,7 +51,7 @@ Here's the workflow. Say my teacher uses a new sentence with a verb I don't know
    - **Front:** English meaning + plural form (e.g., "apple," plural)
    - **Back:** Singular form with article, plural form with article (e.g., "die Äpfel")
 
-![Noun insertion](./noun-insertion.png)
+![Noun insertion](./images/noun-insertion.png)
 
 **Verbs**
 
@@ -61,11 +61,11 @@ Here's the workflow. Say my teacher uses a new sentence with a verb I don't know
    - **Front:** English meaning (e.g., "to eat")
    - **Back:** Infinitive, 3rd person present (_isst_), 3rd person Präteritum (_aß_), 3rd person Perfekt (_hat gegessen_)
 
-![Verb insertion](./verb-insertion.png)
+![Verb insertion](./images/verb-insertion.png)
 
 **Last step:** I add the original sentence the word appeared in, or another one I find interesting, as its own card.
 
-![Sentence insertion](./sentence-insertion.png)
+![Sentence insertion](./images/sentence-insertion.png)
 
 ## Why the 3rd person form?
 
@@ -81,15 +81,14 @@ Learning the 3rd person singular first means you see the irregularity right away
 | du        | **i**ss**t** | ihr     | ess**t**  |
 | er/sie/es | **i**ss**t** | sie/Sie | ess**en** |
 
-
 ## The result:
 
--  Whatever strategy you use, you don't have to follow my step, just take the parts that you think it is good for you. Start simple making and then you would probably have a good mindset and framework.
+- Whatever strategy you use, you don't have to follow my step, just take the parts that you think it is good for you. Start simple making and then you would probably have a good mindset and framework.
 
-- I'm using this strategy, for more than 3 months it is getting better every time. 
+- I'm using this strategy, for more than 3 months it is getting better every time.
 
 - I'm not frustrated and know what steps I do each day, start with Anki, review the notes..
 
 - You also can have this overview:
 
-- - ![Overview](./overview.png)
+- - ![Overview](./images/overview.png)
